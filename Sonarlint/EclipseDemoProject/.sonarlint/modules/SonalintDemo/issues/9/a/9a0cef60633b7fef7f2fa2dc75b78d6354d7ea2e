@@ -1,0 +1,6 @@
+
+Ÿ"squid:ClassVariableVisibilityCheck$"RMake uBound a static final constant or non-public and provide accessors if needed.(¿’ñÍ8ÀÀä’È,HRMINORZVULNERABILITY
+¡"squid:ClassVariableVisibilityCheck"OMake dim a static final constant or non-public and provide accessors if needed.(°Éß†ýÿÿÿÿ8ÀÀä’È,HRMINORZVULNERABILITY
+¤squid:S13190"lThe type of the "x" object should be an interface such as "List" rather than the implementation "ArrayList".(ãÜ¢þýÿÿÿÿ8ÀÀä’È,HRMINORZ
+CODE_SMELL
+Ÿ"squid:ClassVariableVisibilityCheck"RMake lBound a static final constant or non-public and provide accessors if needed.(´æÀæ8ÀÀä’È,HRMINORZVULNERABILITY

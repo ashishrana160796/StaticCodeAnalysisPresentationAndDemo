@@ -1,0 +1,5 @@
+package com.sonarlint.test;
+
+public class GeneticAlgorithm {
+
+}
