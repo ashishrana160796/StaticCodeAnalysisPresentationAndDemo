@@ -1,8 +1,7 @@
-# Demo CheckerFramework
+# Demo of CheckerFramework Tool
 
 Basic demonstration of CheckerFramework tool with its CLI java jar option and
 path of javac variable is not set here.  
-
 The Command line tool steps are elaborated below:  
 
 * Reach current working directory with checker _jar_ file, with all its dependencies & source code files in terminal/command-line.  
